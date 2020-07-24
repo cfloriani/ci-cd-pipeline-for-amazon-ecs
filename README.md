@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ci-cd-pipeline-for-amazon-ecs
-=======
-
 # Welcome to your CDK Python project!
 
 This is a blank project for Python development with CDK.
@@ -59,4 +55,3 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
->>>>>>> gerar-error
